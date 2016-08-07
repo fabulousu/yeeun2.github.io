@@ -64,7 +64,7 @@ a:hover {
 
 .menu.active {
 	color: white;
-	background-color: red;
+	background-color: green;
 	font-weight: bold;
 }
 .left {
